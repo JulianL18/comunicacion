@@ -36,3 +36,17 @@ body {
 p {
     color: white;
 }
+
+#carouselExampleIndicators2 {
+    margin-top: 5vh;
+    display: flex;
+    margin-left: 15vh;
+    margin-right: 15vh;
+    margin-bottom: 5vh;
+}
+
+.Titulo {
+    text-align: center;
+    margin-top: 5vh;
+    color: white;
+}
